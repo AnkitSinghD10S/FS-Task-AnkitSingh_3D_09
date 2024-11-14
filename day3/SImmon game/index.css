@@ -1,0 +1,31 @@
+h1{
+    margin-left: 90vh;
+}
+
+.container{
+    margin: auto;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    margin: 50px 25px;
+    border-radius: 14px;
+}
+#box1{
+    background-color: rgb(255, 34, 0);
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color:green;
+}
+#box4{
+    background-color:yellow;
+}
